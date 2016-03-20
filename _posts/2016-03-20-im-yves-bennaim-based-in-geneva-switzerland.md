@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 starred: true
 keywords: []
-description: 'I’m Yves Bennaïm, based in Geneva, Switzerland.'
-datePublished: '2016-03-20T13:48:26.351Z'
-dateModified: '2016-03-20T13:47:50.882Z'
+description: "I’m Yves Bennaïm, based in Geneva, Switzerland. -- Online since 1992, I have been an\_Online Branding\_Specialist and\_Web Strategy\_Consultant, and I helped people make the Net work for their business. -- In the last twenty years, I spent most of my time in Tokyo, Paris, Brisbane, and Shanghai, usually in front of a computer screen. -- Now I am back to healthier and more traditional values, thanks to\_TOKYONAMA, importer, retailer, and distributer of original products from Japan, and\_SANSUI, Geneva’s authentic Japanese restaurant and izakaya."
+datePublished: '2016-03-20T13:49:31.196Z'
+dateModified: '2016-03-20T13:49:27.314Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-20-im-yves-bennaim-based-in-geneva-switzerland.md
@@ -24,7 +24,11 @@ _type: Article
 ---
 ## Hi,
 
-I'm Yves Bennaïm, based in Geneva, Switzerland. -- Online since 1992, I have been an [Online Branding][0] Specialist and [Web Strategy][1] Consultant, and I helped people make the Net work for their business. -- In the last twenty years, I spent most of my time in Tokyo, Paris, Brisbane, and Shanghai, usually in front of a computer screen. -- Now I am back to healthier and more traditional values, thanks to [TOKYONAMA][2], importer, retailer, and distributer of original products from Japan, and [SANSUI][3], Geneva's authentic Japanese restaurant and izakaya.
+I'm Yves Bennaïm, based in Geneva, Switzerland.
+
+Online since 1992, I have been an [Online Branding][0] Specialist and [Web Strategy][1] Consultant, and I helped people make the Net work for their business. -- In the last twenty years, I spent most of my time in Tokyo, Paris, Brisbane, and Shanghai, usually in front of a computer screen.
+
+Now I am back to healthier and more traditional values, thanks to [TOKYONAMA][2], importer, retailer, and distributer of original products from Japan, and [SANSUI][3], Geneva's authentic Japanese restaurant and izakaya.
 
 [0]: http://www.zlok.net/ "ZLOK"
 [1]: http://www.geekko.com/ "Geekko"
