@@ -4,21 +4,21 @@
         <description><![CDATA[Yves]]></description>
         <link>https://thegrid.ai/y/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 20 Mar 2016 13:47:03 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Mar 2016 13:47:56 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/y/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Hi,]]></title>
+            <description><![CDATA[<article><h1>Hi,</h1><p>I’m Yves Bennaïm, based in Geneva, Switzerland.</p></article>]]></description>
+            <link>https://thegrid.ai/y/im-yves-bennaim-based-in-geneva-switzerland/index.html</link>
+            <guid isPermaLink="false">7de55cd3-6eb6-4243-8bc0-5b543f4fdc24</guid>
+            <pubDate>Sun, 20 Mar 2016 13:47:44 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>“Own only what you can carry with you; know language, know countries, know people.</p>]]></description>
             <link>https://thegrid.ai/y/e5aaae81-938a-416b-bf31-c8829f0d6ebd/index.html</link>
             <guid isPermaLink="false">e5aaae81-938a-416b-bf31-c8829f0d6ebd</guid>
             <pubDate>Sun, 20 Mar 2016 13:37:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Hi,]]></title>
-            <description><![CDATA[<article><h1>Hi,</h1><p>I’m Yves Bennaïm, based in Geneva, Switzerland.</p></article>]]></description>
-            <link>https://thegrid.ai/y/im-yves-bennaim-based-in-geneva-switzerland/index.html</link>
-            <guid isPermaLink="false">7de55cd3-6eb6-4243-8bc0-5b543f4fdc24</guid>
-            <pubDate>Sun, 20 Mar 2016 13:47:03 GMT</pubDate>
         </item>
     </channel>
 </rss>
