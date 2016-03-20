@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: 'I’m Yves Bennaïm, based in Geneva, Switzerland.'
-datePublished: '2016-03-20T13:47:03.741Z'
-dateModified: '2016-03-20T13:45:18.351Z'
+datePublished: '2016-03-20T13:47:44.746Z'
+dateModified: '2016-03-20T13:47:40.696Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-20-im-yves-bennaim-based-in-geneva-switzerland.md
@@ -24,13 +24,7 @@ _type: Article
 ---
 ## Hi,
 
-I'm Yves Bennaïm, based in Geneva, Switzerland.
-
-Online since 1992, I have been an [Online Branding][0] Specialist and [Web Strategy][1] Consultant, and I helped people make the Net work for their business.
-
-In the last twenty years, I spent most of my time in Tokyo, Paris, Brisbane, and Shanghai, usually in front of a computer screen.
-
-Now I am back to healthier and more traditional values, thanks to [TOKYONAMA][2], importer, retailer, and distributer of original products from Japan, and [SANSUI][3], Geneva's authentic Japanese restaurant and izakaya.
+I'm Yves Bennaïm, based in Geneva, Switzerland. -- Online since 1992, I have been an [Online Branding][0] Specialist and [Web Strategy][1] Consultant, and I helped people make the Net work for their business. -- In the last twenty years, I spent most of my time in Tokyo, Paris, Brisbane, and Shanghai, usually in front of a computer screen. -- Now I am back to healthier and more traditional values, thanks to [TOKYONAMA][2], importer, retailer, and distributer of original products from Japan, and [SANSUI][3], Geneva's authentic Japanese restaurant and izakaya.
 
 [0]: http://www.zlok.net/ "ZLOK"
 [1]: http://www.geekko.com/ "Geekko"
