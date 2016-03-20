@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'I’m Yves Bennaïm, based in Geneva, Switzerland.'
-datePublished: '2016-03-20T13:34:40.120Z'
-dateModified: '2016-03-20T13:34:37.343Z'
+datePublished: '2016-03-20T13:41:20.465Z'
+dateModified: '2016-03-20T13:39:08.131Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-20-im-yves-bennaim-based-in-geneva-switzerland.md
