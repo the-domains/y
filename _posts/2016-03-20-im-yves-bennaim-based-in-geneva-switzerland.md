@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'I’m Yves Bennaïm, based in Geneva, Switzerland.'
-datePublished: '2016-03-20T13:34:00.263Z'
-dateModified: '2016-03-20T13:28:48.457Z'
+datePublished: '2016-03-20T13:34:40.120Z'
+dateModified: '2016-03-20T13:34:37.343Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-20-im-yves-bennaim-based-in-geneva-switzerland.md
@@ -26,7 +26,7 @@ _type: Article
 
 I'm Yves Bennaïm, based in Geneva, Switzerland.
 
-Online since 1992, I have been an[Online Branding][0] Specialist and[Web Strategy][1] Consultant, and I helped people make the Net work for their business.
+Online since 1992, I have been an [Online Branding][0] Specialist and [Web Strategy][1] Consultant, and I helped people make the Net work for their business.
 
 In the last twenty years, I spent most of my time in Tokyo, Paris, Brisbane, and Shanghai, usually in front of a computer screen.
 
