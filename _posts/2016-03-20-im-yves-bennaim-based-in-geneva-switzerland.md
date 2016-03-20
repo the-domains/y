@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 starred: true
 keywords: []
-description: "I’m Yves Bennaïm, based in Geneva, Switzerland. -- Online since 1992, I have been an\_Online Branding\_Specialist and\_Web Strategy\_Consultant, and I helped people make the Net work for their business. -- In the last twenty years, I spent most of my time in Tokyo, Paris, Brisbane, and Shanghai, usually in front of a computer screen. -- Now I am back to healthier and more traditional values, thanks to\_TOKYONAMA, importer, retailer, and distributer of original products from Japan, and\_SANSUI, Geneva’s authentic Japanese restaurant and izakaya."
-datePublished: '2016-03-20T13:49:31.196Z'
-dateModified: '2016-03-20T13:49:27.314Z'
+description: 'I’m Yves Bennaïm, based in Geneva, Switzerland.'
+datePublished: '2016-03-20T13:52:06.701Z'
+dateModified: '2016-03-20T13:49:55.106Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-20-im-yves-bennaim-based-in-geneva-switzerland.md
