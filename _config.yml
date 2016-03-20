@@ -1,6 +1,6 @@
 name: 'y'
 favicon: null
-layout_spectrum: 0.04818713944405317
+layout_spectrum: 0.1004
 typography_spectrum: 0.6523458058945835
 cta:
   domain: null
@@ -21,8 +21,8 @@ color:
     - '#BCAB47'
     - '#6B574B'
     - '#160600'
-  brandStrength: 0.7710660092998296
-  lightness: 0.3395003811456263
-  saturation: 0.26727502536959946
-  rhythmicContrast: 0.024679251480847597
+  brandStrength: 0.4375
+  lightness: 0.375
+  saturation: 0.375
+  rhythmicContrast: 0
 purpose: []
